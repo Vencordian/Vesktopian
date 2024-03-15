@@ -1,9 +1,9 @@
-# Vesktop
+# VesktopPlus
 
-Vesktop is a custom Discord desktop app
+VesktopPlus is a custom Discord desktop app
 
 **Main features**:
-- Vencord preinstalled
+- VencordPlus pre-installed
 - Much more lightweight and faster than the official Discord app
 - Linux Screenshare with sound & wayland
 - Much better privacy, since Discord has no access to your system
@@ -15,7 +15,7 @@ Vesktop is a custom Discord desktop app
 ![](https://github.com/Vencord/Vesktop/assets/45497981/8608a899-96a9-4027-9725-2cb02ba189fd)
 ![](https://github.com/Vencord/Vesktop/assets/45497981/8701e5de-52c4-4346-a990-719cb971642e)
 
-## Installing
+## Installing (Vesktop)
 
 ### Windows
 
@@ -24,14 +24,14 @@ If you don't know the difference, pick the Installer.
 - [Installer](https://vencord.dev/download/vesktop/amd64/windows)
 - [Portable](https://vencord.dev/download/vesktop/amd64/windows-portable)
 
-### Mac
+### Mac (Vesktop)
 
 If you don't know the difference, pick amd64
 
 - [amd64 / x86_64](https://vencord.dev/download/vesktop/amd64/dmg)
 - [arm64 / aarch64](https://vencord.dev/download/vesktop/arm64/dmg)
 
-### Linux
+### Linux (Vesktop)
 
 [![Download on Flathub](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)
 
@@ -48,7 +48,7 @@ If you don't know the difference, pick amd64.
   - [Fedora/RHEL (.rpm)](https://vencord.dev/download/vesktop/arm64/rpm)
   - [tarball](https://vencord.dev/download/vesktop/arm64/tar)
 
-#### Community packages
+#### Community packages (Vesktop)
 
 Below you can find unofficial packages created by the community. They are not officially supported by us, so before reporting issues, please first confirm the issue also happens on official builds. When in doubt, consult with their packager first. The flatpak and AppImage should work on any distro that [supports them](https://flatpak.org/setup/), so I recommend you just use those instead!
 
@@ -56,13 +56,13 @@ Below you can find unofficial packages created by the community. They are not of
 - NixOS: https://nixos.wiki/wiki/Discord#Vesktop
 - Windows - Scoop: https://scoop.sh/#/apps?q=Vesktop
 
-## Building from Source
+## Building from Source (VesktopPlus)
 
 Packaging will create builds in the dist/ folder
 
 ```sh
-git clone https://github.com/Vencord/Vesktop
-cd Vesktop
+git clone https://github.com/RobinRMC/VesktopPlus
+cd VesktopPlus
 
 # Install Dependencies
 pnpm i

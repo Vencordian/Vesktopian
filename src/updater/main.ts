@@ -80,7 +80,7 @@ export async function checkUpdates() {
     if (Settings.store.checkUpdates === false) return;
 
     try {
-        const raw = await githubGet("/repos/Vencord/Vesktop/releases/latest");
+        const raw = await githubGet("/repos/RobinRMC/VesktopPlus/releases/latest");
         const data: ReleaseData = await raw.json();
 
         const oldVersion = app.getVersion();
