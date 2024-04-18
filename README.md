@@ -24,14 +24,14 @@ If you don't know the difference, pick the Installer.
 - [Installer](https://vencord.dev/download/vesktop/amd64/windows)
 - [Portable](https://vencord.dev/download/vesktop/amd64/windows-portable)
 
-### Mac (Vesktop)
+### Mac
 
 If you don't know the difference, pick amd64
 
 - [amd64 / x86_64](https://vencord.dev/download/vesktop/amd64/dmg)
 - [arm64 / aarch64](https://vencord.dev/download/vesktop/arm64/dmg)
 
-### Linux (Vesktop)
+### Linux
 
 [![Download on Flathub](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)
 
@@ -48,7 +48,7 @@ If you don't know the difference, pick amd64.
   - [Fedora/RHEL (.rpm)](https://vencord.dev/download/vesktop/arm64/rpm)
   - [tarball](https://vencord.dev/download/vesktop/arm64/tar)
 
-#### Community packages (Vesktop)
+#### Community packages
 
 Below you can find unofficial packages created by the community. They are not officially supported by us, so before reporting issues, please first confirm the issue also happens on official builds. When in doubt, consult with their packager first. The flatpak and AppImage should work on any distro that [supports them](https://flatpak.org/setup/), so I recommend you just use those instead!
 
