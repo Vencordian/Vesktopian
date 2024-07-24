@@ -4,7 +4,6 @@ on:
     push:
         tags:
             - v*
-            - testbuild
         paths-ignore:
             - 'README.md'
     workflow_dispatch:
