@@ -44,7 +44,7 @@ export async function githubGet(endpoint: string) {
 }
 
 export async function downloadVencordFiles() {
-    const release = await githubGet("/repos/RobinRMC/VencordPlus/releases/latest");
+    const release = await githubGet("/repos/Vencordian/Vencordian/releases/latest");
 
     const { assets }: ReleaseData = await release.json();
 

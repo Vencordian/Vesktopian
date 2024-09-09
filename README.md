@@ -1,4 +1,4 @@
-# Vesktop+
+# Vesktopian
 
 A fork of the custom Discord desktop app called Vesktop that loads Vencord+.
 
@@ -55,13 +55,13 @@ Below you can find unofficial packages created by the community. They are not of
 - NixOS: https://wiki.nixos.org/wiki/Discord#Vesktop
 - Windows - Scoop: https://scoop.sh/#/apps?q=Vesktop
 
-## Building from Source (VesktopPlus)
+## Building from Source (Vesktopian)
 
 Packaging will create builds in the dist/ folder
 
 ```sh
-git clone https://github.com/RobinRMC/VesktopPlus
-cd VesktopPlus
+git clone https://github.com/Vencordian/Vesktopian
+cd Vesktopian
 
 # Install Dependencies
 pnpm i

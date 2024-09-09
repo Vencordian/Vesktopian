@@ -4,18 +4,18 @@
     "private": true,
     "description": "A fork of Vesktop pre-packaged with Vencord+",
     "keywords": [],
-    "homepage": "https://github.com/RobinRMC/VencordPlus",
+    "homepage": "https://github.com/Vencordian/Vencordian",
     "license": "GPL-3.0",
     "author": "Vendicated <vendicated@riseup.net>",
     "contributors": [
         {
-            "name": "RobinRMC",
+            "name": "Vencordian",
             "email": "github@robinmail.nl",
-            "url": "https://github.com/RobinRMC"
+            "url": "https://github.com/Vencordian"
         }
     ],
-    "repository": "github:RobinRMC/VesktopPlus",
-    "bugs": "https://github.com/RobinRMC/VencordPlus/issues?q=is%3Aissue+label%3ABug",
+    "repository": "github:Vencordian/Vesktopian",
+    "bugs": "https://github.com/Vencordian/Vencordian/issues?q=is%3Aissue+label%3ABug",
     "main": "dist/js/main.js",
     "scripts": {
         "build": "tsx scripts/build/build.mts",
@@ -72,7 +72,7 @@
     },
     "build": {
         "appId": "dev.vencord.vesktop",
-        "productName": "Vesktop+",
+        "productName": "Vesktopian",
         "files": [
             "!*",
             "!node_modules",
@@ -117,7 +117,7 @@
                 }
             ],
             "desktop": {
-                "Name": "Vesktop+",
+                "Name": "Vesktopian",
                 "GenericName": "Internet Messenger",
                 "Type": "Application",
                 "Categories": "Network;InstantMessaging;Chat;",
