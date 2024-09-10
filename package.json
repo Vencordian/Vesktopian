@@ -1,8 +1,8 @@
 {
-    "name": "vesktopplus",
+    "name": "vesktopian",
     "version": "1.5.3",
     "private": true,
-    "description": "A fork of Vesktop pre-packaged with Vencord+",
+    "description": "A fork of Vesktop pre-packaged with Vencordian",
     "keywords": [],
     "homepage": "https://github.com/Vencordian/Vencordian",
     "license": "GPL-3.0",
@@ -10,7 +10,7 @@
     "contributors": [
         {
             "name": "Vencordian",
-            "email": "github@robinmail.nl",
+            "email": "github@gmail.com",
             "url": "https://github.com/Vencordian"
         }
     ],
@@ -85,7 +85,7 @@
         "linux": {
             "icon": "build/icon.icns",
             "category": "Network",
-            "maintainer": "github+vesktopplus@robinmail.nl",
+            "maintainer": "github+vesktopian@@gmail.com",
             "target": [
                 {
                     "target": "deb",
