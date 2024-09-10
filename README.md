@@ -1,9 +1,9 @@
 # Vesktopian
 
-A fork of the custom Discord desktop app called Vesktop that loads Vencord+.
+A fork of the custom Discord desktop app called Vesktop that loads Vencordian.
 
 **Main features**:
-- Vencord+ pre-installed
+- Vencordian pre-installed
 - Much more lightweight and faster than the official Discord app
 - Screensharing on Linux with sound & wayland
 - Much better privacy, since Discord has no access to your system

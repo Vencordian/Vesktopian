@@ -91,7 +91,7 @@ function initTray(win: BrowserWindow) {
             click: createAboutWindow
         },
         {
-            label: "Repair Vencord+",
+            label: "Repair Vencordian",
             async click() {
                 await downloadVencordFiles();
                 app.relaunch();
@@ -165,7 +165,7 @@ function initMenuBar(win: BrowserWindow) {
             click: createAboutWindow
         },
         {
-            label: "Force Update Vencord+",
+            label: "Force Update Vencordian",
             async click() {
                 await downloadVencordFiles();
                 app.relaunch();
